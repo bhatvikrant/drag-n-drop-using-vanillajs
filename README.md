@@ -1,3 +1,3 @@
-![Demo](assets/demo.gif)
+# Demo
 
-# drag-n-drop-using-vanillajs
+![Demo](assets/demo.gif)
